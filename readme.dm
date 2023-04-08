@@ -1,1 +1,1 @@
-ECHO is on.
+WKU Is
